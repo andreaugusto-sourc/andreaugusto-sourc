@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Fullstack<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions(2023)<br>Em busca de novas experiências<br>Aprendendo novas tecnologias
+Desenvolvedor Fullstack<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions (2023) - Bolsista Fapesp<br>Em busca de novas experiências<br>Aprendendo novas tecnologias
 
 
 ## 🌐 Socials:
