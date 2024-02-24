@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Fullstack<br>Fábrica de Software (2021)<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions (2023) - Bolsa FAPESP<br>Em busca de novas experiências<br>Aprendendo novas tecnologias
+Desenvolvedor Backend Júnior<br>Fábrica de Software (2021)<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions (2023) - Bolsa FAPESP<br>Em busca de novas experiências<br>Aprendendo novas tecnologias
 
 
 ## 🌐 Socials:
