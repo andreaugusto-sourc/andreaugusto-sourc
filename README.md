@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Backend Júnior<br>Cursando Análise e Desenvolvimento de Sistemas<br>Em busca de novas experiências<br>
+Desenvolvedor Fullstack Júnior<br>Cursando Análise e Desenvolvimento de Sistemas<br>Em busca de novas experiências<br>
 
 # 🧑‍💻 Experiences
 Fábrica de Software (2021) - Projeto Acadêmico<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions (2023) - Bolsista FAPESP<br>
