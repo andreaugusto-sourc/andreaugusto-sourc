@@ -1,8 +1,8 @@
 # 💫 About Me:
-Desenvolvedor Fullstack Júnior<br>Cursando Análise e Desenvolvimento de Sistemas (Fatec) <br>Em busca de novas experiências<br>
+Analista de Sistemas <br>Cursando Análise e Desenvolvimento de Sistemas (Fatec) <br>Em busca de novas experiências<br>
 
 # 🧑‍💻 Experiences
-Fábrica de Software (2021) - Projeto Acadêmico<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions (2023) - Bolsista FAPESP<br> Analista de Sistemas Júnior (2024 - 
+Fábrica de Software (2021) - Projeto Acadêmico<br>Consultório na Rua (2022) - Projeto de Extensão<br>Capivara Solutions (2023) - Bolsista FAPESP<br> Analista de Sistemas (2024 - 
  Atualmente) - Trabalho
 
 # 💻 Tech Stack:
