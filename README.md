@@ -35,11 +35,6 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas pela FATEC**, com foco
 
 ---
 
-## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaugusto-sourc&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-augusto-b85296228/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.martins.tech@gmail.com)
